@@ -1,0 +1,6 @@
+{
+  "name": "SignalTrace",
+  "description": "Aplikasi forensik URL media sosial lintas platform (TikTok, Facebook, Instagram, Threads, YouTube) untuk korelasi profil-postingan, dekoding timestamp ID, pelacakan parameter share, audit perangkat sendiri, dan analisis JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

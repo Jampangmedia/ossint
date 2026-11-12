@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SignalTrace</string>
+    <string name="nav_correlator">Korelasi</string>
+    <string name="nav_trace">Jejak</string>
+    <string name="nav_json_lab">JSON Lab</string>
+    <string name="nav_audit">Audit</string>
+    <string name="nav_vault">Vault</string>
+
+    <string name="correlator_title">Forensik Korelasi URL</string>
+    <string name="correlator_subtitle">TikTok, Facebook, Instagram, Threads &amp; YouTube • Mode Tanpa Hooking</string>
+    <string name="label_profile_url">URL Profil Target</string>
+    <string name="hint_profile_url">https://www.tiktok.com/@username</string>
+    <string name="label_post_url">URL Postingan / Video</string>
+    <string name="hint_post_url">https://www.tiktok.com/@username/video/7348921048571234567</string>
+    <string name="btn_analyze">Analisis &amp; Korelasi</string>
+    <string name="btn_trace_network">Lacak Redirect &amp; CDN</string>
+    <string name="btn_save_vault">Simpan ke Vault</string>
+    <string name="btn_export_json">Ekspor JSON</string>
+
+    <string name="trace_title">Rekonstruksi Waktu &amp; Jejak CDN</string>
+    <string name="json_lab_title">JSON Forensics Lab</string>
+    <string name="audit_title">Audit Perangkat Sendiri</string>
+    <string name="vault_title">Vault Investigasi</string>
+
+    <string name="msg_no_report">Belum ada URL yang dianalisis. Masukkan URL di tab Korelasi.</string>
+    <string name="msg_saved_vault">Kasus berhasil disimpan ke Vault lokal.</string>
+    <string name="msg_exported_json">Laporan JSON berhasil disimpan.</string>
+</resources>
